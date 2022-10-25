@@ -1,4 +1,4 @@
-<mxfile modified="2022-10-25T11:40:44.931Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CM7MOkL6Pq7wQ4UulDNQ" version="20.5.1" type="github">
+<mxfile modified="2022-10-25T12:14:43.285Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hl9pXOijCKiwXWdbvEf6" version="20.5.1" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1186" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="jRW_jkEqM7UfKy5-Ahwi-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-270" width="1140" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="jRW_jkEqM7UfKy5-Ahwi-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="505" y="330" width="115" height="75" as="geometry" />
         </mxCell>
         <mxCell id="jRW_jkEqM7UfKy5-Ahwi-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="883" y="330" width="240" height="140" as="geometry" />
@@ -152,8 +155,8 @@
         <mxCell id="jRW_jkEqM7UfKy5-Ahwi-48" value="⑥读取操作日志" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="883.5" y="426" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jRW_jkEqM7UfKy5-Ahwi-49" value="⑦将日志返回前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="120" height="30" as="geometry" />
+        <mxCell id="jRW_jkEqM7UfKy5-Ahwi-49" value="⑦日志返回前端&lt;br&gt;设备详情页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="355" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
